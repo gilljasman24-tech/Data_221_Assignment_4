@@ -8,3 +8,5 @@ This repository contains Python solutions for Assignment 4.
   Trains a Decision Tree classifier using entropy with an 80/20 train-test split. Reports training and testing accuracy and includes comments explaining entropy and model performance.
 - **question3.py**  
   Trains a constrained Decision Tree by limiting model complexity. Reports training and testing accuracy and identifies the most important features. Includes comments about overfitting and interpretability.
+- **question4.py**  
+  Trains a neural network on the dataset after standardizing the features. Reports training and testing accuracy and includes comments about feature scaling and epochs.
