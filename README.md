@@ -10,3 +10,5 @@ This repository contains Python solutions for Assignment 4.
   Trains a constrained Decision Tree by limiting model complexity. Reports training and testing accuracy and identifies the most important features. Includes comments about overfitting and interpretability.
 - **question4.py**  
   Trains a neural network on the dataset after standardizing the features. Reports training and testing accuracy and includes comments about feature scaling and epochs.
+- **question5.py**  
+  Evaluates both the Decision Tree and Neural Network using confusion matrices. Includes a short comparison of the two models with advantages and limitations.
