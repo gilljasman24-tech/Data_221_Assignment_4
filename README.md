@@ -12,3 +12,5 @@ This repository contains Python solutions for Assignment 4.
   Trains a neural network on the dataset after standardizing the features. Reports training and testing accuracy and includes comments about feature scaling and epochs.
 - **question5.py**  
   Evaluates both the Decision Tree and Neural Network using confusion matrices. Includes a short comparison of the two models with advantages and limitations.
+- **question6.py**  
+  Loads the Fashion MNIST dataset, preprocesses the data, and trains a Convolutional Neural Network (CNN). Reports test accuracy and includes comments explaining CNN behavior.
