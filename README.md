@@ -14,3 +14,5 @@ This repository contains Python solutions for Assignment 4.
   Evaluates both the Decision Tree and Neural Network using confusion matrices. Includes a short comparison of the two models with advantages and limitations.
 - **question6.py**  
   Loads the Fashion MNIST dataset, preprocesses the data, and trains a Convolutional Neural Network (CNN). Reports test accuracy and includes comments explaining CNN behavior.
+- **question7.py**  
+  Uses the trained CNN to generate predictions, computes a confusion matrix, and displays misclassified images. Includes comments discussing error patterns and possible improvements.
